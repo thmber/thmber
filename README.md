@@ -1,3 +1,2 @@
 ## Hi there, 
 🌱 I’m currently learning JS, Typescript, Angular, SCSS and... 
-
