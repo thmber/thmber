@@ -12,4 +12,8 @@
 ![typescript](img/typescript.png)
 ![scrum](img/rest-api.png)
 
+## :coffee: Visit me at:
+
+thmahler.net
+
 ---
