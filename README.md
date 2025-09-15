@@ -1,13 +1,6 @@
-## Hi there, 
-🌱 I’m currently learning JS, Typescript, Angular, SCSS and... 
-
-
-# :computer: Join: Kanban-inspired Task Manager
-
 ![thmber Screenshot](img/portfolio.avif)
 
-
-## :rocket: I'm currently working on:
+## :rocket: I'm currently learning:
 
 ![Javascript](img/javascript.png)
 ![CSS](img/css.png)
