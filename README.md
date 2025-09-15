@@ -6,5 +6,11 @@
 ![CSS](img/css.png)
 ![Git](img/git.png)
 ![Html](img/html.png)
+![Angular](img/angular.png)
+![Firebase](img/firebase.png)
+![scrum](img/scrum.png)
+![typescript](img/typescript.png)
+![Firebase](img/material design.png)
+![scrum](img/rest-api.png)
 
 ---
