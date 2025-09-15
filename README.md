@@ -14,6 +14,6 @@
 
 ## :coffee: Visit me at:
 
-thmahler.net
+[me](https://thmahler.net/portfolio)
 
 ---
