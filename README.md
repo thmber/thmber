@@ -12,6 +12,10 @@
 ![typescript](img/typescript.png)
 ![scrum](img/rest-api.png)
 
+###
+
+<img src="https://raw.githubusercontent.com/thmber/thmber/output/snake.svg" alt="Snake animation" />
+
 ## :coffee: Visit me at:
 
 [me](https://thmahler.net/portfolio)
