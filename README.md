@@ -1,4 +1,3 @@
-![thmber Screenshot](img/portfolio_screen.avif)
 
 ## :rocket: I'm currently learning:
 
