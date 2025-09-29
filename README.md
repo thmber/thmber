@@ -10,6 +10,8 @@
 ![scrum](img/scrum.png)
 ![typescript](img/typescript.png)
 ![scrum](img/rest-api.png)
+![django](img/css.png)
+![python](img/python.png)
 
 ###
 
