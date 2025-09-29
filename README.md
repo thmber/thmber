@@ -3,7 +3,6 @@
 
 ![Javascript](img/javascript.png)
 ![CSS](img/css.png)
-![Git](img/git.png)
 ![Html](img/html.png)
 ![Angular](img/angular.png)
 ![firebase](img/firebase.png)
