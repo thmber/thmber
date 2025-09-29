@@ -11,7 +11,6 @@
 ![typescript](img/typescript.png)
 ![scrum](img/rest-api.png)
 ![django](img/django.png)
-![python](img/python.png)
 
 ###
 
